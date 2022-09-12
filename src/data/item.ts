@@ -5,7 +5,7 @@ import estrela from '../svgs/estrela.svg'
 import gasolina from '../svgs/gasolina.svg'
 import moto from '../svgs/moto.svg'
 
-export const item = [
+export const items = [
     {name: 'Android', icon: androidSvg },
     {name: 'caminhão', icon: caminhao },
     {name: 'disney', icon: disney },
