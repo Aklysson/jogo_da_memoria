@@ -6,7 +6,8 @@ import { items } from '../../data/item'
 
 type Props = {
     item: ItemType,
-    onClick: () => void
+    onClick: () => void,
+    
 }
 
 export function GridItem({item,onClick}: Props) {
@@ -22,6 +23,7 @@ export function GridItem({item,onClick}: Props) {
             (item.permanentShown || item.shown ) && item.item !== null
             && <C.Icon src={items[item.item].icon} alt='' />
         }
+       
     </C.Container>
     )
 }
