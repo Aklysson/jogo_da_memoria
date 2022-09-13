@@ -1,16 +1,18 @@
-Jogo da Memória
+<h1>Jogo da Memória</h1>
 
 Jogo da memória feito em React + TypeScript.
 
 Projeto desenvolvido para fins de estudos.
 
-Estilização
+<h1>Estilização</h1>
 Para estilização foi usada a biblioteca Styled-Components.
 
-Projeto gerado em CRA
+<h1>Projeto gerado em CRA</h1>
 
-Instalação
+<h2>Instalação</h2>
 
 npm install
-Para rodar
+
+<h2>Para rodar</h2>
+
 npm start
